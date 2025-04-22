@@ -1,0 +1,17 @@
+com/zoo/domain/feeding/model/FeedingScheduleId.class
+com/zoo/domain/animal/model/Species.class
+com/zoo/domain/event/AnimalMovedEvent.class
+com/zoo/domain/animal/model/Animal.class
+com/zoo/domain/enclosure/model/EnclosureType.class
+com/zoo/domain/feeding/model/FeedingSchedule.class
+com/zoo/domain/enclosure/model/Enclosure.class
+com/zoo/domain/animal/model/HealthStatus.class
+com/zoo/domain/event/FeedingTimeEvent.class
+com/zoo/domain/enclosure/model/EnclosureId.class
+com/zoo/domain/animal/model/AnimalId.class
+com/zoo/domain/feeding/repository/FeedingScheduleRepository.class
+com/zoo/domain/event/DomainEventPublisher.class
+com/zoo/domain/animal/repository/AnimalRepository.class
+com/zoo/domain/feeding/model/FoodType.class
+com/zoo/domain/animal/model/Gender.class
+com/zoo/domain/enclosure/repository/EnclosureRepository.class

@@ -1,0 +1,5 @@
+com/zoo/infrastructure/persistence/InMemoryFeedingScheduleRepository.class
+com/zoo/infrastructure/persistence/InMemoryAnimalRepository.class
+com/zoo/infrastructure/event/LoggingDomainEventPublisher.class
+com/zoo/infrastructure/persistence/InMemoryEnclosureRepository.class
+com/zoo/infrastructure/persistence/InMemoryDatabase.class

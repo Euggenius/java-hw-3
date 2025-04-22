@@ -1,0 +1,17 @@
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/feeding/model/FoodType.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/event/FeedingTimeEvent.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/animal/model/AnimalId.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/feeding/repository/FeedingScheduleRepository.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/animal/repository/AnimalRepository.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/animal/model/Gender.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/animal/model/Species.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/event/DomainEventPublisher.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/animal/model/HealthStatus.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/event/AnimalMovedEvent.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/enclosure/model/EnclosureId.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/enclosure/model/Enclosure.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/enclosure/model/EnclosureType.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/feeding/model/FeedingSchedule.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/animal/model/Animal.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/feeding/model/FeedingScheduleId.java
+/Users/evgenijbojko/zoo-management/domain/src/main/java/com/zoo/domain/enclosure/repository/EnclosureRepository.java
